@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering at The Ohio State University.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Currently learning backend development with Java.
--   Exploring the MERN stack.
+- 🤔 &nbsp; Exploring the MERN stack.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
