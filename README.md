@@ -2,9 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at The Ohio State University.
+- 🎓 &nbsp; Studied Computer Science and Engineering at The Ohio State University.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Currently learning backend development with Java.
 - 🤔 &nbsp; Exploring the MERN stack.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
